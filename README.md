@@ -1,66 +1,11 @@
-## Foundry
+## The selfdestruct contract adddress
+https://sepolia-blockscout.lisk.com/address/0xD7697c973eEDCE6de17b5b659E1d183050BE6143
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+## My whitelisted wallet address
+0xb216270aFB9DfcD611AFAf785cEB38250863F2C9
 
-Foundry consists of:
+## Report and te challenges i faced
+1. I could not withdraw the specified 0.0005 ether 
+2. all i could withdraw successfully is 0 eth
 
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
-
-## Documentation
-
-https://book.getfoundry.sh/
-
-## Usage
-
-### Build
-
-```shell
-$ forge build
-```
-
-### Test
-
-```shell
-$ forge test
-```
-
-### Format
-
-```shell
-$ forge fmt
-```
-
-### Gas Snapshots
-
-```shell
-$ forge snapshot
-```
-
-### Anvil
-
-```shell
-$ anvil
-```
-
-### Deploy
-
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
-
-### Cast
-
-```shell
-$ cast <subcommand>
-```
-
-### Help
-
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
+## attached is a screenshot of my metamask wallet 
